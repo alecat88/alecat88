@@ -2,11 +2,13 @@
 
 🚀 Lead & Senior Full Stack Engineer | Web3 & Cloud Enthusiast
 
+
 🔹 Experienced in building scalable web applications, with a focus on JavaScript, TypeScript, and modern front-end and back-end technologies.
 
 🔹 Passionate about Web3, blockchain development, and cloud-native solutions.
 
 🔹 Open to collaborating on innovative JavaScript/TypeScript projects.
+
 
 📫 Let’s connect: [LinkedIn]( https://www.linkedin.com/in/alessandro-catania/)
 
